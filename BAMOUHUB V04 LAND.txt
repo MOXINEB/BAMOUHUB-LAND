@@ -152,7 +152,7 @@ local waterLevel = workspace.ServerValues:FindFirstChild("WaterLevel")
 
 spawn(function()
     while isRunning do  -- Only run if the toggle is ON
-        waterLevel.Value = 1
+        waterLevel.Value = -99999
         wait(3)  -- Wait for 5 seconds
     end
 end)
