@@ -698,10 +698,10 @@ local DinosaurData = MemoryCard.DinosaurData
 local dinosaurList = {
     "Pliosaurus", "Ichthyosaurus", "Mosasaurus", "Onchopristis", "Elasmosaurus", "Thalassomedon",
     "Cretoxyrhina", "Leedsichthys", "Coelacanth", "Prognathodon", "Shastasaurus", "Helicoprion",
-    "Kronosaurus boyacensis", "Liopleurodon", "Fresnosaurus", "Ectenosaurus", "Tusoteuthis",
-    "Megalodon", "Carcharocles Megalodon", "Rhomaleosaurus", "Chilantaisaurus", "Gelioichthys",
+    "Kronosaurus Boyacensis", "Liopleurodon", "Fresnosaurus", "Ectenosaurus", "Tusoteuthis",
+    "Megalodon", "Carcharocles Megalodon", "Rhomaleosaurus", "Chilantaisaurus", "Scyllaβ",
     "Dunkleosteus", "Jaeklopterus", "Basilosaurus", "Anomalocaris", "Opabinia", "Trilobite",
-    "Tullimonstrum", "Callichimaera", "Tiktaalik", "Hibbertopterus", "Dolichomalasaurus"
+    "Tullimonstrum", "Callichimaera", "Tiktaalik", "Hibbertopterus", "Dolichomalosaurus"
 }
 
 local function removeDinosaur(dinoName)
